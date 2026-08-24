@@ -1,0 +1,168 @@
+{
+  "rukun_islam": [
+    {
+      "id": 1,
+      "title": "Syahadat",
+      "description": "Bersaksi bahwa tidak ada tuhan selain Allah dan Muhammad adalah utusan Allah",
+      "detail": "Syahadat adalah pintu masuk Islam. Dengan mengucapkan syahadat, seseorang menjadi muslim. Syahadat terdiri dari dua kalimat: Asyhadu alla ilaha illallah (Aku bersaksi bahwa tidak ada tuhan selain Allah) dan Wa asyhadu anna Muhammadan rasulullah (Dan aku bersaksi bahwa Muhammad adalah utusan Allah)."
+    },
+    {
+      "id": 2,
+      "title": "Sholat",
+      "description": "Mendirikan sholat 5 waktu sehari semalam",
+      "detail": "Sholat adalah tiang agama. Sholat wajib dikerjakan 5 waktu: Subuh, Dzuhur, Ashar, Maghrib, dan Isya. Sholat adalah sarana komunikasi antara hamba dengan Allah dan mencegah perbuatan keji dan mungkar."
+    },
+    {
+      "id": 3,
+      "title": "Zakat",
+      "description": "Mengeluarkan zakat bagi yang mampu",
+      "detail": "Zakat adalah membersihkan harta. Zakat wajib dikeluarkan dari harta yang telah mencapai nisab (batas minimum) dan haul (satu tahun). Zakat dibagikan kepada 8 golongan penerima sesuai Al-Quran."
+    },
+    {
+      "id": 4,
+      "title": "Puasa",
+      "description": "Berpuasa di bulan Ramadhan",
+      "detail": "Puasa Ramadhan adalah menahan diri dari makan, minum, dan hal-hal yang membatalkan puasa dari terbit fajar hingga terbenam matahari. Puasa mengajarkan kesabaran, ketakwaan, dan kepedulian terhadap sesama."
+    },
+    {
+      "id": 5,
+      "title": "Haji",
+      "description": "Melaksanakan ibadah haji bagi yang mampu",
+      "detail": "Haji adalah rukun Islam kelima. Ibadah haji dilaksanakan di Mekkah pada bulan Dzulhijjah. Haji adalah perjalanan spiritual yang mengingatkan pada perjuangan Nabi Ibrahim dan keluarganya."
+    }
+  ],
+  "rukun_iman": [
+    {
+      "id": 1,
+      "title": "Iman kepada Allah",
+      "description": "Percaya dengan sepenuh hati bahwa Allah adalah Tuhan Yang Maha Esa",
+      "detail": "Iman kepada Allah adalah percaya bahwa Allah adalah Tuhan yang menciptakan dan mengatur alam semesta. Allah Maha Esa, tidak beranak dan tidak diperanakkan. Tidak ada sesuatu pun yang serupa dengan-Nya."
+    },
+    {
+      "id": 2,
+      "title": "Iman kepada Malaikat",
+      "description": "Percaya kepada malaikat-malaikat Allah",
+      "detail": "Malaikat adalah makhluk ciptaan Allah yang terbuat dari cahaya. Mereka tidak pernah durhaka kepada Allah dan selalu melaksanakan perintah-Nya. Malaikat yang wajib diketahui ada 10: Jibril, Mikail, Israfil, Izrail, Munkar, Nakir, Raqib, Atid, Malik, dan Ridwan."
+    },
+    {
+      "id": 3,
+      "title": "Iman kepada Kitab",
+      "description": "Percaya kepada kitab-kitab yang diturunkan Allah",
+      "detail": "Kitab-kitab yang diturunkan Allah adalah: Taurat (kepada Musa), Zabur (kepada Daud), Injil (kepada Isa), dan Al-Quran (kepada Muhammad). Al-Quran adalah kitab terakhir yang menjadi pedoman bagi seluruh umat manusia."
+    },
+    {
+      "id": 4,
+      "title": "Iman kepada Rasul",
+      "description": "Percaya kepada rasul-rasul Allah",
+      "detail": "Rasul adalah utusan Allah yang diutus untuk menyampaikan wahyu kepada umatnya. Ada 25 rasul yang wajib diketahui, dimulai dari Adam hingga Muhammad. Mereka adalah manusia pilihan yang diberi mukjizat untuk membuktikan kenabiannya."
+    },
+    {
+      "id": 5,
+      "title": "Iman kepada Hari Akhir",
+      "description": "Percaya kepada hari kiamat dan kehidupan setelah mati",
+      "detail": "Hari akhir adalah hari ketika semua manusia dibangkitkan dari kubur untuk mempertanggungjawabkan amal perbuatannya. Ada surga untuk orang-orang beriman dan neraka untuk orang-orang kafir."
+    },
+    {
+      "id": 6,
+      "title": "Iman kepada Qadha dan Qadar",
+      "description": "Percaya kepada ketetapan dan takdir Allah",
+      "detail": "Qadha dan Qadar adalah ketetapan Allah atas segala sesuatu. Allah telah menetapkan segala sesuatu sejak zaman azali. Namun manusia tetap memiliki usaha dan doa yang dapat mengubah takdirnya."
+    }
+  ],
+  "akhlak": [
+    {
+      "id": 1,
+      "title": "Jujur",
+      "description": "Berkata dan bertindak sesuai dengan kenyataan",
+      "detail": "Kejujuran adalah sifat yang sangat mulia dalam Islam. Rasulullah SAW dikenal dengan julukan Al-Amin (yang terpercaya) karena kejujurannya. Kejujuran membawa kepada kebaikan dan kebaikan membawa ke surga."
+    },
+    {
+      "id": 2,
+      "title": "Sabar",
+      "description": "Menahan diri dari keluhan dan kemarahan",
+      "detail": "Sabar adalah setengah dari iman. Sabar dibagi menjadi tiga: sabar dalam taat kepada Allah, sabar dalam meninggalkan maksiat, dan sabar dalam menghadapi ujian. Allah mencintai orang-orang yang sabar."
+    },
+    {
+      "id": 3,
+      "title": "Tawadhu",
+      "description": "Rendah hati tidak sombong",
+      "detail": "Tawadhu adalah sikap rendah hati. Sombong adalah penyakit hati yang dibenci Allah. Rasulullah SAW bersabda bahwa orang yang sombong tidak akan masuk surga."
+    },
+    {
+      "id": 4,
+      "title": "Ikhlas",
+      "description": "Melakukan amal hanya karena Allah",
+      "detail": "Ikhlas adalah melakukan amal ibadah hanya karena mengharapkan ridha Allah, bukan karena pujian manusia. Amal yang tidak ikhlas akan sia-sia dan tidak diterima Allah."
+    },
+    {
+      "id": 5,
+      "title": "Tawakkal",
+      "description": "Berserah diri kepada Allah setelah berusaha",
+      "detail": "Tawakkal adalah berserah diri kepada Allah setelah melakukan usaha maksimal. Tawakkal bukan berarti pasrah tanpa usaha, tetapi berdoa dan berusaha lalu menyerahkan hasilnya kepada Allah."
+    },
+    {
+      "id": 6,
+      "title": "Syukur",
+      "description": "Bersyukur atas nikmat Allah",
+      "detail": "Syukur adalah mengakui bahwa semua nikmat berasal dari Allah dan digunakan di jalan yang diridhai-Nya. Allah berjanji akan menambah nikmat bagi orang yang bersyukur."
+    }
+  ],
+  "ibadah": [
+    {
+      "id": 1,
+      "title": "Sholat Sunnah",
+      "description": "Sholat-sholat sunnah yang dianjurkan",
+      "detail": "Sholat sunnah adalah sholat yang tidak wajib tetapi sangat dianjurkan. Contoh: Sholat Dhuha, Sholat Tahajjud, Sholat Rawatib (sebelum dan sesudah sholat wajib), Sholat Witir, Sholat Tarawih, dan Sholat Istikharah."
+    },
+    {
+      "id": 2,
+      "title": "Doa dan Dzikir",
+      "description": "Berdoa dan mengingat Allah setiap waktu",
+      "detail": "Doa adalah senjata orang mukmin. Setiap muslim dianjurkan untuk berdoa dalam segala keadaan. Dzikir adalah mengingat Allah dengan membaca kalimat-kalimat thayyibah seperti Subhanallah, Alhamdulillah, Allahu Akbar, dan La ilaha illallah."
+    },
+    {
+      "id": 3,
+      "title": "Sedekah",
+      "description": "Memberikan sebagian harta untuk kebaikan",
+      "detail": "Sedekah tidak hanya dalam bentuk uang, tetapi juga senyuman, menyingkirkan duri dari jalan, dan membantu orang lain. Sedekah dapat menghapus dosa dan melipatgandakan pahala."
+    },
+    {
+      "id": 4,
+      "title": "Puasa Sunnah",
+      "description": "Puasa-puasa sunnah yang dianjurkan",
+      "detail": "Puasa sunnah di antaranya: Puasa Senin Kamis, Puasa Ayyamul Bidh (tanggal 13,14,15 hijriah), Puasa 6 hari di bulan Syawal, Puasa Arafah, dan Puasa Asyura (10 Muharram)."
+    },
+    {
+      "id": 5,
+      "title": "Membaca Al-Quran",
+      "description": "Membaca dan memahami Al-Quran",
+      "detail": "Membaca Al-Quran adalah ibadah yang sangat utama. Setiap huruf yang dibaca akan mendapat pahala. Al-Quran adalah petunjuk bagi manusia dan membacanya akan menenangkan hati."
+    }
+  ],
+  "muamalah": [
+    {
+      "id": 1,
+      "title": "Jual Beli",
+      "description": "Transaksi jual beli dalam Islam",
+      "detail": "Jual beli dalam Islam harus dilakukan dengan jujur dan adil. Dilarang menipu, menimbun barang, dan menjual barang yang haram. Transaksi harus jelas dan tidak mengandung riba."
+    },
+    {
+      "id": 2,
+      "title": "Hutang Piutang",
+      "description": "Ketentuan hutang piutang dalam Islam",
+      "detail": "Hutang piutang diperbolehkan selama ada kesepakatan yang jelas. Dianjurkan untuk mencatat hutang dan memiliki saksi. Hutang harus dibayar tepat waktu dan tidak boleh memberatkan pihak lain."
+    },
+    {
+      "id": 3,
+      "title": "Pernikahan",
+      "description": "Pernikahan dalam Islam",
+      "detail": "Pernikahan adalah sunnah dan ibadah. Tujuan pernikahan adalah membentuk keluarga sakinah, mawaddah, dan rahmah. Pernikahan harus dilakukan dengan ijab qabul yang sah dan memenuhi rukun serta syaratnya."
+    },
+    {
+      "id": 4,
+      "title": "Warisan",
+      "description": "Pembagian warisan dalam Islam",
+      "detail": "Islam mengatur pembagian warisan secara adil dan terperinci dalam Al-Quran. Warisan dibagi kepada ahli waris yang berhak sesuai dengan bagian masing-masing. Pembagian warisan harus dilakukan dengan adil."
+    }
+  ]
+}
